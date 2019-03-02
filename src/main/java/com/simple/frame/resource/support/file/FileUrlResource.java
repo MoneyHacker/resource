@@ -29,7 +29,6 @@ import java.nio.file.StandardOpenOption;
 import com.simple.frame.resource.spi.Resource;
 import com.simple.frame.resource.spi.extend.WritableResource;
 import com.simple.frame.resource.support.DefaultResourceLoader;
-import com.simple.frame.resource.support.PathResource;
 import com.simple.frame.resource.support.url.UrlResource;
 import com.simple.frame.resource.util.ResourceUtils;
 import com.sun.istack.internal.Nullable;
